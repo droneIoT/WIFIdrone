@@ -1,6 +1,6 @@
 # WIFIdrone
 Simple WiFidrone based on ESP8266EX chip
-# ESP8266 Smartwatch Hardware V1
+# WiFidrone Hardware V1
 ## Parts list
 * 1x PCB
 * 1x ESP8266EX WiFi SoC
