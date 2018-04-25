@@ -1,5 +1,8 @@
 # WIFIdrone
 Simple WiFidrone based on ESP8266EX chip
+
+[![WiFidroen flight](https://img.youtube.com/vi/tzl4eodW64M/0.jpg)](https://www.youtube.com/watch?v=tzl4eodW64M)
+
 # WiFidrone Hardware V1
 ## Parts list
 * 1x PCB
